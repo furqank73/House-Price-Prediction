@@ -29,7 +29,7 @@ Try the interactive app to predict house prices:
 
 ## App Interface  
 ### Prediction Page  
-![Prediction Interface](images/Screenshot (154).png)  
+![Prediction Interface](images/Screenshot(154).png)  
 
 ### Key Metrics & Contact  
-![Metrics & Links](images/Screenshot (155).png)  
+![Metrics & Links](images/Screenshot(155).png)  
