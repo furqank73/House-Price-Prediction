@@ -15,8 +15,12 @@ Predicting house prices is critical for buyers, sellers, and real estate agents 
 - Optimized hyperparameters using GridSearchCV (Scikit-learn).  
 
 ## Results  
+### Feature Importance  
+![Feature Importance](images/top_drivers.png)  
+*The top  drivers of house prices are square footage, location,price per sqft, and number of bedrooms.* 
+
 ### Actual vs. Predicted Prices  
-![Actual vs Predicted](images/top_drivers.png)  
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ## How to Run  
 1. **Clone the repository**:  
@@ -29,7 +33,7 @@ Try the interactive app to predict house prices:
 
 ## App Interface  
 ### Prediction Page  
-![Prediction Interface](images/Screenshot(154).png)  
+![Prediction Interface](images/screenshot1.png)  
 
 ### Key Metrics & Contact  
-![Metrics & Links](images/Screenshot(155).png)  
+![Metrics & Links](images/screenshot2.png)  
